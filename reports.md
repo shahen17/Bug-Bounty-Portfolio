@@ -6,7 +6,7 @@ Hi I'm Shahen, Independent Web3 Security Researcher, This document links to conf
 # Reports
 | Report | Platform |
 |--|--|
-| [Alchemix (Boost)](https://github.com/immunefi-team/Bounty_Boosts/blob/main/Alchemix/Report%2030704.md) | Immunefi |
+| [Alchemix (Boost)](https://reports.immunefi.com/alchemix/30704-sc-medium-griefing-an-account-from-getting-votes-delegate...) | Immunefi |
 
 
 
