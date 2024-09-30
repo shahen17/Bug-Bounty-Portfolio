@@ -7,6 +7,7 @@ Hi I'm Shahen, Independent Web3 Security Researcher, This document links to conf
 | Report | Platform |
 |--|--|
 | [Alchemix (Boost)](https://reports.immunefi.com/alchemix/30704-sc-medium-griefing-an-account-from-getting-votes-delegate...) | Immunefi |
+| f| f |
 
 
 
