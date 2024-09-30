@@ -6,8 +6,8 @@ Hi I'm Shahen, Independent Web3 Security Researcher, This document links to conf
 # Reports
 | Report | Platform | Severiety
 |--|--|--|
-| [Alchemix (Boost)](https://reports.immunefi.com/alchemix/30704-sc-medium-griefing-an-account-from-getting-votes-delegate...) | Immunefi |
-| [Folks Finance (Boost)](https://reports.immunefi.com/folks-finance/boost-_-folks-finance-33695-smart-contract-critical-attacker-can-borrow-more-than-the-collateral-dep)| Immunefi |
+| [Alchemix (Boost)](https://reports.immunefi.com/alchemix/30704-sc-medium-griefing-an-account-from-getting-votes-delegate...) | Immunefi | Medium |
+| [Folks Finance (Boost)](https://reports.immunefi.com/folks-finance/boost-_-folks-finance-33695-smart-contract-critical-attacker-can-borrow-more-than-the-collateral-dep)| Immunefi | Critical |
 
 
 
